@@ -23,6 +23,8 @@ http://davonlarson.com/vm.php
 
 ## Preview
 
+![alt text](https://github.com/outsidedav/portfolioimg.png "...")
+
 
 ## How to use
 1. Clone/Download the repo.
