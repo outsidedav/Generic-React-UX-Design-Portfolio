@@ -1,10 +1,28 @@
-[![HitCount](http://hits.dwyl.io/rbhatia46/React-Portfolio.svg)](http://hits.dwyl.io/rbhatia46/React-Portfolio)
 
 
-A simple SPA Portfolio template for developer/designers built with React. Use it to showcase your work, testimonials and other information to clients.
+
+This is my UX design portfolio, based on http://hits.dwyl.io/rbhatia46/React-Portfolio, rigth now it is a simple single page app, but I would like make another "template" page similar to the home page that specificaly for my projects.
+
+That will require routing with react, something I know can't be too complicated, but I just dont have the time to figure it out.
+
+These tiles on the first page just need to link to the project pages. 
+
+Those project pages will have these componates (all of which already exist)
+
+• Hero with BG image and h1
+• Pin board with skills/methods used on the project
+• Simple Repeatable content section with an image and text
+• portfolio section
+
+Here's an example of what I want the page to look like in HTML/PHP/CSS
+
+http://davonlarson.com/vm.php
+
+
+
 
 ## Preview
-![Preview](https://image.ibb.co/e5uBf0/Capture.png)
+
 
 ## How to use
 1. Clone/Download the repo.
