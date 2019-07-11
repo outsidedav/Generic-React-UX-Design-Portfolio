@@ -1,6 +1,5 @@
 
-
-![alt text](https://github.com/outsidedav/Generic-React-UX-Design-Portfolio/blob/master/portfolioimg.png "...")
+![alt text](https://github.com/outsidedav/Generic-React-UX-Design-Portfolio/blob/master/heroscreenshot.png "...")
 
 This is my UX design portfolio, based on http://hits.dwyl.io/rbhatia46/React-Portfolio, rigth now it is a simple single page app, but I would like make another "template" page similar to the home page that specificaly for my projects.
 
@@ -9,7 +8,7 @@ That will require routing with react, something I know can't be too complicated,
 These tiles on the first page just need to link to the project pages. 
 
 
-![alt text](https://github.com/outsidedav/Generic-React-UX-Design-Portfolio/blob/master/heroscreenshot.png "...")
+![alt text](https://github.com/outsidedav/Generic-React-UX-Design-Portfolio/blob/master/portfolioimg.png "...")
 
 Those project pages will have these componates (all of which already exist)
 
