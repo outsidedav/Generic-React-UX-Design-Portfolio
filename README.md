@@ -7,6 +7,9 @@ That will require routing with react, something I know can't be too complicated,
 
 These tiles on the first page just need to link to the project pages. 
 
+
+![alt text](https://github.com/outsidedav/Generic-React-UX-Design-Portfolio/blob/master/portfolioimg.png "...")
+
 Those project pages will have these componates (all of which already exist)
 
 + Hero with BG image and h1
@@ -17,13 +20,6 @@ Those project pages will have these componates (all of which already exist)
 Here's an example of what I want the page to look like in HTML/PHP/CSS
 
 http://davonlarson.com/vm.php
-
-
-
-
-## Preview
-
-![alt text](https://github.com/outsidedav/Generic-React-UX-Design-Portfolio/blob/master/portfolioimg.png "...")
 
 
 ## How to use
