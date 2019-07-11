@@ -23,7 +23,7 @@ http://davonlarson.com/vm.php
 
 ## Preview
 
-![alt text](https://github.com/outsidedav/portfolioimg.png "...")
+![alt text](https://github.com/outsidedav/Generic-React-UX-Design-Portfolio/blob/master/portfolioimg.png "...")
 
 
 ## How to use
