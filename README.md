@@ -9,10 +9,10 @@ These tiles on the first page just need to link to the project pages.
 
 Those project pages will have these componates (all of which already exist)
 
-• Hero with BG image and h1
-• Pin board with skills/methods used on the project
-• Simple Repeatable content section with an image and text
-• portfolio section
++ Hero with BG image and h1
++ Pin board with skills/methods used on the project
++ Simple Repeatable content section with an image and text
++ portfolio section
 
 Here's an example of what I want the page to look like in HTML/PHP/CSS
 
