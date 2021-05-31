@@ -74,32 +74,37 @@ let resumeData = {
         "name":"Augmenting Urban Planning",
         "description":"mobileapp",
         "imgurl":"images/prethesisthum.png",
-        "url": "/thesis"
+        "url": "/portfolioPage"
       },
       {
         "name":"project2",
         "description":"mobileapp",
-        "imgurl":"images/VMThumbnail.png"
+        "imgurl":"images/VMThumbnail.png",
+        "url": "/portfolioPage2"
       },
       {
         "name":"project3",
         "description":"mobileapp",  
-        "imgurl":"images/worklinkThumbnail.jpg"
+        "imgurl":"images/worklinkThumbnail.jpg",
+        "url": "/portfolioPage3"
       },
       {
         "name":"Augmenting Urban Planning",
         "description":"mobileapp",
-        "imgurl":"images/prethesisthum.png"
+        "imgurl":"images/prethesisthum.png",
+        "url": "/portfolioPage4"
       },
       {
         "name":"project2",
         "description":"mobileapp",
-        "imgurl":"images/VMThumbnail.png"
+        "imgurl":"images/VMThumbnail.png",
+        "url": "/portfolioPage5"
       },
       {
         "name":"project3",
         "description":"mobileapp",  
-        "imgurl":"images/worklinkThumbnail.jpg"
+        "imgurl":"images/worklinkThumbnail.jpg",
+        "url": "/portfolioPage"
       }
     ],
     "testimonials":[

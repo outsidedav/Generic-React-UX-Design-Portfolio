@@ -1,4 +1,6 @@
 import React, { Component } from 'react';
+import { NavLink } from 'react-router-dom';
+
 export default class Porfolio extends Component {
   render() {
     let resumeData = this.props.resumeData;
@@ -11,19 +13,21 @@ export default class Porfolio extends Component {
           {
             resumeData.portfolio && resumeData.portfolio.map((item)=>{
               return(
+                <NavLink to={`${item.url}`}>
                 <div className="columns portfolio-item">
                   <div className="item-wrap">
-                    
-                      <a href="#test"><img src={`${item.imgurl}`} className="item-img"/>
+                      
+                        <img src={`${item.imgurl}`} className="item-img"/>
                       <div className="overlay">
                         <div className="portfolio-item-meta">
                           <h5>{item.name}</h5>
                           <p>{item.description}</p>
                         </div>
                       </div>
-                      </a>
+                      
                   </div>
                 </div>
+                </NavLink>
               )
             })
           }
@@ -34,3 +38,4 @@ export default class Porfolio extends Component {
         );
   }
 }
+
