@@ -19,7 +19,7 @@ Those project pages will have these componates (all of which already exist)
 
 Here's an example of what I want the page to look like in HTML/PHP/CSS
 
-http://davonlarson.com/vm.php
+http://www.davonlarson.com/vm.php
 
 
 ## How to use
